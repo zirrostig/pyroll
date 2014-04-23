@@ -14,8 +14,8 @@ eg. To do 10000 rolls of a d20, d10, and d4
 ```
 
 Requires
-========
-Python 3
-Matplotlib
-Numpy
-Probably something else that I take for granted on my systems
+======== 
+* Python 3 
+* Matplotlib 
+* Numpy 
+* Probably something else that I take for granted on my systems
